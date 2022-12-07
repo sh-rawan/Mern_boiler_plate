@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Mern-boiler-plate/static/css/main.793b0697.css",
-    "main.js": "/Mern-boiler-plate/static/js/main.86bdb0df.js",
-    "static/js/787.cda612ba.chunk.js": "/Mern-boiler-plate/static/js/787.cda612ba.chunk.js",
-    "index.html": "/Mern-boiler-plate/index.html",
-    "main.793b0697.css.map": "/Mern-boiler-plate/static/css/main.793b0697.css.map",
-    "main.86bdb0df.js.map": "/Mern-boiler-plate/static/js/main.86bdb0df.js.map",
-    "787.cda612ba.chunk.js.map": "/Mern-boiler-plate/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/static/css/main.793b0697.css",
+    "main.js": "/static/js/main.8bf640c2.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "index.html": "/index.html",
+    "main.793b0697.css.map": "/static/css/main.793b0697.css.map",
+    "main.8bf640c2.js.map": "/static/js/main.8bf640c2.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.793b0697.css",
-    "static/js/main.86bdb0df.js"
+    "static/js/main.8bf640c2.js"
   ]
 }
