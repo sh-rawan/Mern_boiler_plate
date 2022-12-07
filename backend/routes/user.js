@@ -3,7 +3,7 @@ const router = express.Router();
 const userProtect = require("../middleware/authMiddleware");
 const { listAll } = require("../controllers/user");
 
-router.get("/listallusers", userProtect, listAll)
+router.get("/getreq", listAll)
 
 
 module.exports = router;

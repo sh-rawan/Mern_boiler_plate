@@ -9,7 +9,7 @@ const connectDB = require("./database/db.js")
 const app = express()
 
 dotenv.config()
-connectDB()
+// connectDB()
 
 app.use(express.json())
 
