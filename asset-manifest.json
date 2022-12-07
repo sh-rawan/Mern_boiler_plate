@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mern-boiler-plate/static/css/main.793b0697.css",
+    "main.js": "/Mern-boiler-plate/static/js/main.86bdb0df.js",
+    "static/js/787.cda612ba.chunk.js": "/Mern-boiler-plate/static/js/787.cda612ba.chunk.js",
+    "index.html": "/Mern-boiler-plate/index.html",
+    "main.793b0697.css.map": "/Mern-boiler-plate/static/css/main.793b0697.css.map",
+    "main.86bdb0df.js.map": "/Mern-boiler-plate/static/js/main.86bdb0df.js.map",
+    "787.cda612ba.chunk.js.map": "/Mern-boiler-plate/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.793b0697.css",
+    "static/js/main.86bdb0df.js"
+  ]
+}
