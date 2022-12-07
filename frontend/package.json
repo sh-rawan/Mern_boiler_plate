@@ -1,5 +1,5 @@
 {
-  "homepage": "https://sh-rawan.github.io/Mern-boiler-plate",
+  "homepage": "https://sh-rawan.github.io/Mern_boiler_plate",
   "name": "frontend",
   "proxy": "http://127.0.0.1:5000",
   "version": "0.1.0",

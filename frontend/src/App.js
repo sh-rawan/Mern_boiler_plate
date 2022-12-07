@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, HashRouter } from "react-router-dom";
+import { BrowserRouter as Router, Route, HashRouter, Switch } from "react-router-dom";
 import { Home } from "./pages/Home";
 import { Pages } from "./pages/Pages";
 
@@ -6,10 +6,12 @@ import { Pages } from "./pages/Pages";
 function App() {
   return (
   <HashRouter>
-  <Router>
+  <Switch>
+  {/* <Router> */}
     <Route path="/" component={Home} exact />
     <Route path="/pages" component={Pages} exact />
-  </Router>
+  {/* </Router> */}
+  </Switch>
   </HashRouter>
 );
 }
